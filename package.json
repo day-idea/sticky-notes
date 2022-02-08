@@ -1,0 +1,23 @@
+{
+  "name": "sticky-notes",
+  "version": "1.0.0",
+  "description": "my electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/day-idea/sticky-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/day-idea/sticky-notes/issues"
+  },
+  "homepage": "https://github.com/day-idea/sticky-notes#readme",
+  "devDependencies": {
+    "electron": "^17.0.0"
+  }
+}
